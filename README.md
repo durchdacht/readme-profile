@@ -40,7 +40,7 @@ A minimalist take on Tokyo’s quiet side, born from a late-night idea between f
 
 Always open to interesting conversations and collaborations.
 
-[![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:your@email.com)
+[![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@fld.wtf)
 
 ---
 
